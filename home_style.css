@@ -55,7 +55,7 @@ nav {
 
 #neo-character {
     display: inline !important;
-    transform: translateX(200px) !important;
+    transform: translateX(60px) !important;
     animation-name: slide-in-right !important;
     animation-duration: 0.5s !important;
     animation-timing-function: ease-out !important;
